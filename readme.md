@@ -35,7 +35,7 @@ Computing Machines and Networks, 2004-2008
 * [Neural Nets and Computer Vision](certificates/dls_advanced_summer_2021.pdf) @ Deep Learning School on Stepik (July 23, 2021)
 * [Neural Nets and Computer Vision](https://stepik.org/cert/1038176) @ Samsung Research Russia on Stepik (July 27, 2021)
 * [Neural Nets and Natural Language Processing](https://stepik.org/cert/1041945) @ Samsung Research Russia on Stepik (July 27, 2021)
-* [Machine Learning](https://www.teta.mts.ru/#mach) @ MTS.Teta Summer School (June 28 - August 30, 2021)
+* [Machine Learning](certificates/mts_teta_school.pdf) @ MTS.Teta Summer School (June 28 - August 30, 2021) [:link:](https://www.teta.mts.ru/#mach)
 
 #### Skills
 * Languages: C, Python, SQL
@@ -54,7 +54,7 @@ Computing Machines and Networks, 2004-2008
 
 #### Hackathons
 * [Prediction of Sickness Absence](https://nnhackathon.ru) @ Nornickel (Data Scientist, May 2021)
-* [Host classification: tech / user-friendly](https://edtech17.notion.site/2021-c23a63bbc7fc4003adc01e3c2fe85018) @ MTS.Teta (ML Engineer, August 2021) [:link:](certificates/mts_teta_hack.pdf)
+* [Host classification: tech / user-friendly](certificates/mts_teta_hack.pdf) @ MTS.Teta (ML Engineer, August 2021) [:link:](https://edtech17.notion.site/2021-c23a63bbc7fc4003adc01e3c2fe85018)
 
 #### Challenges
 * [Music Demixing Challenge](https://www.aicrowd.com/challenges/music-demixing-challenge-ismir-2021/) @ Sony & AIcrowd
