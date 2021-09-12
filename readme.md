@@ -48,7 +48,7 @@ Computing Machines and Networks, 2004-2008
 * [Object Detection](https://github.com/vaaliferov/object_detection) @ Deep Learning School
 * [Self-Screening](https://github.com/vaaliferov/paranormal) @ MTS.Teta Summer School
 * [Audio Source Separation](https://github.com/vaaliferov/unmix) @ Music Demixing Challenge
-* [My Tiny AutoML](https://github.com/vaaliferov/my_tiny_automl) @ Learning ML
+* [My Tiny AutoML](https://github.com/vaaliferov/my_tiny_automl) @ Learning Machine Learning
 
 #### Contributions
 * [yolo5](https://github.com/ultralytics/yolov5) - an object detection architecture
