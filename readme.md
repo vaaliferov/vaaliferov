@@ -56,6 +56,7 @@ Computing Machines and Networks, 2004-2008
 #### Hackathons
 * [Prediction of Sickness Absence](https://nnhackathon.ru) @ Nornickel (Data Scientist, May 2021)
 * [Host classification: tech / user-friendly](certificates/mts_teta_hack.pdf) @ MTS.Teta (ML Engineer, August 2021) [:link:](https://edtech17.notion.site/2021-c23a63bbc7fc4003adc01e3c2fe85018)
+* [Commercial Real Estate](certificates/raifhack.pdf) @ Raiffeisenbank (ML Engineer, September 2021) [:link:](https://raifhack.ru)
 
 #### Challenges
 * [Music Demixing Challenge](https://www.aicrowd.com/challenges/music-demixing-challenge-ismir-2021/) @ Sony & AIcrowd
