@@ -47,9 +47,9 @@ Computing Machines and Networks, 2004-2008
 * [Simpsons Classification](https://github.com/vaaliferov/practice/tree/master/075a_simpsons) @ Deep Learning School
 * [Object Detection](https://github.com/vaaliferov/practice/tree/master/083a_object_detection) @ Deep Learning School
 * [Seq2Seq (hotels)](https://github.com/vaaliferov/practice/tree/master/101_seq2seq) @ Deep Learning School
-* [Timit Bot](https://github.com/vaaliferov/practice/tree/master/108_timit_bot)
-* [Voxceleb Bot](https://github.com/vaaliferov/practice/tree/master/107_voxceleb_bot)
-* [SSA Bot](https://github.com/vaaliferov/practice/tree/master/109_ssa_bot)
+* [Timit Bot](https://github.com/vaaliferov/practice/tree/master/108_timit_bot) @ Deep Learning School
+* [Voxceleb Bot](https://github.com/vaaliferov/practice/tree/master/107_voxceleb_bot) @ Deep Learning School
+* [SSA Bot](https://github.com/vaaliferov/practice/tree/master/109_ssa_bot) @ Deep Learning School
 * [Audio Source Separation](https://github.com/vaaliferov/practice/tree/master/088a_unmix) @ Music Demixing Challenge
 * [My Tiny AutoML](https://github.com/vaaliferov/practice/tree/master/087a_my_tiny_automl) @ Learning Machine Learning
 * [Self-Screening](https://github.com/vaaliferov/paranormal) @ MTS.Teta Summer School
