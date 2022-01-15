@@ -5,7 +5,7 @@
 
 #### Contact / follow me
 * [telegram](https://t.me/vaaliferov), 
-[gmail](mailto:vaaliferov@gmail.com), [linkedin](https://www.linkedin.com/in/vaaliferov), [github](https://github.com/vaaliferov)
+[gmail](mailto:vaaliferov@gmail.com), [linkedin](https://www.linkedin.com/in/vaaliferov), [github](https://github.com/vaaliferov), [gitlab](https://gitlab.com/vaaliferov)
 * [kaggle](https://www.kaggle.com/valentinaliferov), [codewars](https://www.codewars.com/users/vaaliferov), [leetcode](https://leetcode.com/vaaliferov), [stepik](https://stepik.org/users/313008459), [coursera](https://www.coursera.org/user/479f5528aa860afe28b9cf0b753fd180)
 
 #### Education
