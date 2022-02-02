@@ -46,7 +46,6 @@ Computing Machines and Networks, 2004-2008
 #### Projects
 * [Simpsons Bot](https://github.com/vaaliferov/practice/tree/master/075a_simpsons) @ Deep Learning School
 * [Object Detection Bot](https://github.com/vaaliferov/practice/tree/master/083a_object_detection) @ Deep Learning School
-* [Seq2Seq Bot](https://github.com/vaaliferov/practice/tree/master/101_seq2seq) @ Deep Learning School
 * [Timit Bot](https://github.com/vaaliferov/practice/tree/master/108_timit_bot) @ Deep Learning School
 * [VoxCeleb Bot](https://github.com/vaaliferov/practice/tree/master/107_voxceleb_bot) @ Deep Learning School
 * [SSA Bot](https://github.com/vaaliferov/practice/tree/master/109_ssa_bot) @ Deep Learning School
