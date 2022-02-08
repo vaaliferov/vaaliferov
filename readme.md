@@ -67,5 +67,5 @@ Computing Machines and Networks, 2004-2008
 #### Challenges
 * [Music Demixing Challenge](https://www.aicrowd.com/challenges/music-demixing-challenge-ismir-2021/) @ Sony & AIcrowd
 -----------------------
-#### I will always love you [❤️](index.md)
+#### I will always love you [❤️](pics/1.jpg)
 ![Alt Text](pics/2.jpg)
