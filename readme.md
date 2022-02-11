@@ -1,4 +1,3 @@
-
 ![](https://komarev.com/ghpvc/?username=vaaliferov&color=green)
 ![](https://img.shields.io/github/followers/vaaliferov?style=social)
 ![](https://img.shields.io/github/stars/vaaliferov?style=social)
@@ -52,7 +51,7 @@ Computing Machines and Networks, 2004-2008
 * [JoJoGAN Bot](https://github.com/vaaliferov/117_jojo_gan) @ Deep Learning School
 * [DeOldify Bot](https://github.com/vaaliferov/121_deoldify) @ Deep Learning School
 * [NMT Bot](https://github.com/vaaliferov/119_dls2_nmt) @ Deep Learning School
-* [Unmix Bot](https://github.com/vaaliferov/practice/tree/master/088a_unmix) @ Music Demixing Challenge
+* [Unmix Bot](https://github.com/vaaliferov/088_unmix) @ Music Demixing Challenge
 
 #### Contributions
 * [yolo5](https://github.com/ultralytics/yolov5) - an object detection architecture
