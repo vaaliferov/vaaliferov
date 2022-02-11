@@ -47,7 +47,7 @@ Computing Machines and Networks, 2004-2008
 * [Object Detection Bot](https://github.com/vaaliferov/practice/tree/master/083a_object_detection) @ Deep Learning School
 * [Timit Bot](https://github.com/vaaliferov/practice/tree/master/108_timit_bot) @ Deep Learning School
 * [VoxCeleb Bot](https://github.com/vaaliferov/practice/tree/master/107_voxceleb_bot) @ Deep Learning School
-* [SSA Bot](https://github.com/vaaliferov/practice/tree/master/109_ssa_bot) @ Deep Learning School
+* [SSA Bot](https://github.com/vaaliferov/109_ssa) @ Deep Learning School
 * [JoJoGAN Bot](https://github.com/vaaliferov/117_jojo_gan) @ Deep Learning School
 * [DeOldify Bot](https://github.com/vaaliferov/121_deoldify) @ Deep Learning School
 * [NMT Bot](https://github.com/vaaliferov/119_dls2_nmt) @ Deep Learning School
