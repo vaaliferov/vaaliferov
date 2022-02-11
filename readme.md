@@ -43,15 +43,15 @@ Computing Machines and Networks, 2004-2008
 * DevOps:    Linux, Git, Docker, REST API, CI
 
 #### Projects
-* [Simpsons Bot](https://github.com/vaaliferov/practice/tree/master/075a_simpsons) @ Deep Learning School
+* [Simpsons Bot](https://github.com/vaaliferov/075_dls1_simpsons) @ Deep Learning School
 * [Object Detection Bot](https://github.com/vaaliferov/083_dls1_detection) @ Deep Learning School
+* [Unmix Bot](https://github.com/vaaliferov/088_unmix) @ Music Demixing Challenge
 * [Timit Bot](https://github.com/vaaliferov/108_timit) @ Deep Learning School
 * [VoxCeleb Bot](https://github.com/vaaliferov/107_voxceleb) @ Deep Learning School
 * [SSA Bot](https://github.com/vaaliferov/109_ssa) @ Deep Learning School
 * [JoJoGAN Bot](https://github.com/vaaliferov/117_jojo_gan) @ Deep Learning School
 * [DeOldify Bot](https://github.com/vaaliferov/121_deoldify) @ Deep Learning School
 * [NMT Bot](https://github.com/vaaliferov/119_dls2_nmt) @ Deep Learning School
-* [Unmix Bot](https://github.com/vaaliferov/088_unmix) @ Music Demixing Challenge
 
 #### Contributions
 * [yolo5](https://github.com/ultralytics/yolov5) - an object detection architecture
