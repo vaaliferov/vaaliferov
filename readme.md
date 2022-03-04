@@ -40,7 +40,7 @@ Computing Machines and Networks, 2004-2008
 * Languages: C, Python, SQL
 * DS/ML/DL:  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
 * DBMS:      SQLite, MySQL
-* DevOps:    Linux, Git, Docker, REST API, CI
+* DevOps:    Linux, Git, Docker, REST API
 
 #### Projects
 * [Simpsons Bot](https://github.com/vaaliferov/075_dls1_simpsons) @ Deep Learning School
