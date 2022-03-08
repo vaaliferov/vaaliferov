@@ -10,7 +10,6 @@
 #### Education
 * **Voronezh State Technical University**  
 Information Technology in Education, 2008-2012  
-* **Voronezh State Technical University** (College)  
 Computing Machines and Networks, 2004-2008  
 
 #### English & SelfDev
