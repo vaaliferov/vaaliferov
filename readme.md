@@ -14,5 +14,4 @@
 [leetcode](https://leetcode.com/vaaliferov), 
 [stepik](https://stepik.org/users/313008459), 
 [coursera](https://www.coursera.org/user/479f5528aa860afe28b9cf0b753fd180)
----
-.. / .-- .. .-.. .-.. / -. . ...- . .-. / ..-. --- .-. --. . - / -.-- --- ..- [❤️](pics/2.jpg)
+* .. / .-- .. .-.. .-.. / -. . ...- . .-. / ..-. --- .-. --. . - / -.-- --- ..- [❤️](pics/2.jpg)
