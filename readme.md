@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=vaaliferov&color=green)
 ![](https://img.shields.io/github/followers/vaaliferov?style=social)
 ![](https://img.shields.io/github/stars/vaaliferov?style=social)
-
----
 * [en_cv](https://drive.google.com/file/d/1Uc__oaggGygN_bub8UD4RcBEPgRrPhNR/view?usp=sharing), 
 [certificates](certificates.md),
 [ru_cv](https://drive.google.com/file/d/1XYq05QZJixuEpe6HVDJyHmQf-J6SYvi6/view?usp=sharing)
