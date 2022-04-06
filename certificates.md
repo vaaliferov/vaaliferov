@@ -41,3 +41,4 @@
 * [Летняя школа МТС Тета](certificates/041.pdf)
 * [Хакатон Raifhack DS](certificates/042.pdf)
 * [Introduction to Statistics](certificates/043.pdf)
+* [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](certificates/044.pdf) [🔗](https://coursera.org/share/8cdfb3c020e7d782ac17a8b9840bd728)
