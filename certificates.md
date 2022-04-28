@@ -47,3 +47,7 @@
 * [Convolutional Neural Networks](certificates/047.pdf)
 * [Sequence Models](certificates/048.pdf)
 * [Deep Learning](certificates/049.pdf)
+* [Mathematics for Machine Learning: Linear Algebra](certificates/050.pdf)
+* [Mathematics for Machine Learning: Multivariate Calculus](certificates/051.pdf)
+* [Mathematics for Machine Learning: PCA](certificates/052.pdf)
+* [Mathematics for Machine Learning](certificates/053.pdf)
