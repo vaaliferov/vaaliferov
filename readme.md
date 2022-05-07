@@ -1,5 +1,3 @@
-
-
 [🔗](https://github.com/vaaliferov/119_dls2_nmt) Neural Machine Translation  
 [🔗](https://github.com/vaaliferov/121_deoldify) Colorizing and Restoring Old Images  
 [🔗](https://github.com/vaaliferov/117_jojo_gan) One Shot Face Stylization  
