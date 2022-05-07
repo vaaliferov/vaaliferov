@@ -1,10 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=vaaliferov&color=green)
 ![](https://img.shields.io/github/followers/vaaliferov?style=social)
 ![](https://img.shields.io/github/stars/vaaliferov?style=social)
+
 ---
+
 [🔗](https://github.com/vaaliferov/119_dls2_nmt) Neural Machine Translation
-A Transformer model for Neural Machine Translation from Russian to English.
+[🔗](https://github.com/vaaliferov/119_dls2_nmt) Neural Machine Translation
+
 ---
+
 [🔗](https://www.efset.org/)  EF Standard English Test  [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/022.pdf)  
 [🔗](https://www.coursera.org/learn/learning-how-to-learn-youth)  Learning How To Learn for Youth  [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/023.pdf)  
 
