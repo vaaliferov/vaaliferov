@@ -2,14 +2,14 @@
 ![](https://img.shields.io/github/followers/vaaliferov?style=social)
 ![](https://img.shields.io/github/stars/vaaliferov?style=social)
 
-[🔗](https://github.com/vaaliferov/119_dls2_nmt) Neural Machine Translation
-[🔗](https://github.com/vaaliferov/121_deoldify) Colorizing and Restoring Old Images
-[🔗](https://github.com/vaaliferov/117_jojo_gan) One Shot Face Stylization
-[🔗](https://github.com/vaaliferov/109_ssa) A Game Based on Reversing Audio
-[🔗](https://github.com/vaaliferov/107_voxceleb) Searching for Similar Voices
-[🔗](https://github.com/vaaliferov/088_unmix) Music Source Separation
-[🔗](https://github.com/vaaliferov/083_dls1_detection) Object Detection (computer vision)
-[🔗](https://github.com/vaaliferov/075_dls1_simpsons) Image Classification (Journey to Springfield Competition)
+[🔗](https://github.com/vaaliferov/119_dls2_nmt) Neural Machine Translation  
+[🔗](https://github.com/vaaliferov/121_deoldify) Colorizing and Restoring Old Images  
+[🔗](https://github.com/vaaliferov/117_jojo_gan) One Shot Face Stylization  
+[🔗](https://github.com/vaaliferov/109_ssa) A Game Based on Reversing Audio  
+[🔗](https://github.com/vaaliferov/107_voxceleb) Searching for Similar Voices  
+[🔗](https://github.com/vaaliferov/088_unmix) Music Source Separation  
+[🔗](https://github.com/vaaliferov/083_dls1_detection) Object Detection (computer vision)  
+[🔗](https://github.com/vaaliferov/075_dls1_simpsons) Image Classification (Journey to Springfield Competition)  
 
 [🔗](https://www.efset.org/)  EF Standard English Test  [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/022.pdf)  
 [🔗](https://www.coursera.org/learn/learning-how-to-learn-youth)  Learning How To Learn for Youth  [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/023.pdf)  
