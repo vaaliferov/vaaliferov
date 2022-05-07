@@ -1,6 +1,4 @@
-![](https://komarev.com/ghpvc/?username=vaaliferov&color=green)
-![](https://img.shields.io/github/followers/vaaliferov?style=social)
-![](https://img.shields.io/github/stars/vaaliferov?style=social)
+
 
 [🔗](https://github.com/vaaliferov/119_dls2_nmt) Neural Machine Translation  
 [🔗](https://github.com/vaaliferov/121_deoldify) Colorizing and Restoring Old Images  
@@ -23,6 +21,7 @@
 
 [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/019.pdf)  Statistics with Python  [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/020.pdf) [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/018.pdf) [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/017.pdf)  
 [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/053.pdf)  Mathematics for Machine Learning  [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/050.pdf) [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/051.pdf) [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/052.pdf)  
+[🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/043.pdf) Introduction to Statistics  
 
 [🔗](https://www.coursera.org/specializations/learn-sql-basics-data-science)  Learn SQL Basics for Data Science  [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/032.pdf)  
 [🔗](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql)  Modern Big Data Analysis with SQL  [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/033.pdf)  
