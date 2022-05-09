@@ -21,8 +21,8 @@
 * [Deep Learning School: Natural Language Processing](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/036.pdf)
 
 #### Courses & Certificates
-* [EF Standard English Test](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/022.pdf)
-* [Learning How To Learn for Youth](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/023.pdf)
+* [EFSET: EF Standard English Test](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/022.pdf)
+* [Arizona State University: Learning How To Learn for Youth](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/023.pdf)
 * [University of Michigan: Python for Everybody](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/014.pdf)
 * [University of Michigan: Python 3 Programming](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/010.pdf)
 * [DeepLearning.AI: Deep Learning](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/049.pdf) 
@@ -32,8 +32,8 @@
 [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/029.pdf)  
 * [DeepLearning.AI: Machine Learning Engineering for Production](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/035.pdf)
-* [Samsung: Neural Networks and Computer Vision](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/038.pdf)
-* [Samsung: Neural Networks and Natural Language Processing](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/039.pdf)
+* [Samsung Research: Neural Networks and Computer Vision](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/038.pdf)
+* [Samsung Research: Neural Networks and Natural Language Processing](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/039.pdf)
 * [University of Michigan: Statistics with Python](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/019.pdf)
 * [Imperial College London: Mathematics for Machine Learning](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/053.pdf)
 * [Bioinformatics Institute: Introduction to Statistics](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/043.pdf)
