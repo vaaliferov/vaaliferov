@@ -27,7 +27,7 @@
 [🔗](https://www.coursera.org/specializations/learn-sql-basics-data-science)  Learn SQL Basics for Data Science  [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/032.pdf)  
 [🔗](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql)  Modern Big Data Analysis with SQL  [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/033.pdf)  
 
-[🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/041.pdf)  MTS.Teta School
+[🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/041.pdf)  MTS.Teta School  
 [🔗](https://github.com/rolling-scopes-school/ml-intro)  Rolling Scopes School  
 [🔗](https://github.com/DLSchool/deep-learning-school)  Deep Learning School  [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/036.pdf)  
 
