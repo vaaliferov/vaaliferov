@@ -5,7 +5,7 @@
 * [A Game Based on Reversing Audio](https://github.com/vaaliferov/109_ssa)
 * [Searching for Similar Voices](https://github.com/vaaliferov/107_voxceleb)   
 * [Music Source Separation ](https://github.com/vaaliferov/088_unmix)
-* [Object Detection (computer vision)](https://github.com/vaaliferov/083_dls1_detection)
+* [Object Detection (mscoco)](https://github.com/vaaliferov/083_dls1_detection)
 * [Image Classification (simpsons) ](https://github.com/vaaliferov/075_dls1_simpsons)
 
 #### Challenges & Hackathons
