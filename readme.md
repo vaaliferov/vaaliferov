@@ -41,3 +41,5 @@
 [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/032.pdf)
 * [Cloudera: Modern Big Data Analysis with SQL](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql)
 [🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/033.pdf)
+* [ДВФУ: Интерактивный тренажер по SQL](https://stepik.org/course/63054/info)
+[🔗](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/060.pdf)
