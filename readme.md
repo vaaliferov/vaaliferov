@@ -13,6 +13,7 @@
 * [MTS.Teta Hackathon](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/040.pdf)
 * [Raiffeisenbank Hackathon](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/042.pdf)
 * [Music Demixing Challenge](https://www.aicrowd.com/challenges/music-demixing-challenge-ismir-2021)
+* [Google AI4Code competition](https://github.com/vaaliferov/129_ai4code)
 
 #### Additional Education
 * [MTS.Teta School: Machine Learning](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/041.pdf)
