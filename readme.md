@@ -1,7 +1,8 @@
 #### Projects
 * [Neural Machine Translation](https://github.com/vaaliferov/119_dls2_nmt)
 * [Colorizing and Restoring Old Images](https://github.com/vaaliferov/121_deoldify)
-* [One Shot Face Stylization](https://github.com/vaaliferov/117_jojo_gan)
+* [One-Shot Face Stylization](https://github.com/vaaliferov/117_jojo_gan)
+* [Zero-Shot Voice Conversion](https://github.com/vaaliferov/118_yourvc)
 * [A Game Based on Reversing Audio](https://github.com/vaaliferov/109_ssa)
 * [Searching for Similar Voices](https://github.com/vaaliferov/107_voxceleb)   
 * [Music Source Separation ](https://github.com/vaaliferov/088_unmix)
