@@ -20,7 +20,7 @@
 * [MTS.Teta School: Machine Learning](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/041.pdf)
 * [Rolling Scopes School: Machine Learning](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/059.pdf)    
 * [Deep Learning School: Computer Vision](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/036.pdf)
-* [Deep Learning School: Natural Language Processing](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/036.pdf)
+* [Deep Learning School: Natural Language Processing](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/061.pdf)
 
 #### Courses & Certificates
 * [EFSET: EF Standard English Test](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/022.pdf)
