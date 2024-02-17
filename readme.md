@@ -1,4 +1,5 @@
 #### Projects
+* [Lemmatization (Russian)](https://github.com/vaaliferov/lemma)
 * [Neural Machine Translation](https://github.com/vaaliferov/119_dls2_nmt)
 * [Colorizing and Restoring Old Images](https://github.com/vaaliferov/121_deoldify)
 * [One-Shot Face Stylization](https://github.com/vaaliferov/117_jojo_gan)
