@@ -25,6 +25,7 @@
 
 #### Courses & Certificates
 * [EFSET: EF Standard English Test](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/022.pdf)
+* [LinguaTrip: Master English Grammar Like a Native](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/062.pdf)
 * [Arizona State University: Learning How To Learn for Youth](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/023.pdf)
 * [University of Michigan: Python for Everybody](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/014.pdf)
 * [University of Michigan: Python 3 Programming](https://github.com/vaaliferov/vaaliferov/blob/master/certificates/010.pdf)
