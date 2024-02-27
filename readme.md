@@ -6,7 +6,7 @@
 * [DeOldify: Image Colorizer](https://github.com/vaaliferov/121_deoldify)
 * [One-Shot Face Stylization](https://github.com/vaaliferov/117_jojo_gan)
 * [Zero-Shot Voice Conversion](https://github.com/vaaliferov/118_yourvc)
-* [A Game Based on Reversing Audio](https://github.com/vaaliferov/109_ssa)
+* [SSA Game: Reversing Audio](https://github.com/vaaliferov/109_ssa)
 * [Search for Similar Voices](https://github.com/vaaliferov/107_voxceleb)   
 * [Music Source Separation ](https://github.com/vaaliferov/088_unmix)
 * [Object Detection (mscoco)](https://github.com/vaaliferov/083_dls1_detection)
