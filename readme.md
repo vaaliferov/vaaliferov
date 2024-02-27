@@ -1,7 +1,7 @@
 #### Projects
 * [Search Engine (Sber)](https://github.com/vaaliferov/160_search)
 * [Text Classification (Sber)](https://github.com/vaaliferov/topic)
-* [Lemmatization (Russian)](https://github.com/vaaliferov/lemma)
+* [Lemmatization (Russian)](https://github.com/vaaliferov/161_lemma)
 * [Neural Machine Translation](https://github.com/vaaliferov/119_dls2_nmt)
 * [DeOldify: Image Colorizer](https://github.com/vaaliferov/121_deoldify)
 * [One-Shot Face Stylization](https://github.com/vaaliferov/117_jojo_gan)
